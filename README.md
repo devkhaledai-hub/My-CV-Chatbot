@@ -1,10 +1,3 @@
----
-title: my_career_conversations
-app_file: app.py
-sdk: gradio
-sdk_version: 6.10.0
----
-
 # Personal AI Assistant
 
 An agentic chatbot that acts as your digital representative on your personal website. Built with GPT-4o-mini, it uses **RAG** (Retrieval-Augmented Generation) and **tool calling** to answer questions about your career, skills, and background — all through a Gradio web interface.
