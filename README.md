@@ -2,6 +2,11 @@
 
 An agentic chatbot that acts as your digital representative on your personal website. Built with GPT-4o-mini, it uses **RAG** (Retrieval-Augmented Generation) and **tool calling** to answer questions about your career, skills, and background — all through a Gradio web interface.
 
+
+https://github.com/user-attachments/assets/e1a67b4a-60fd-470a-ae17-e460aada61b9
+
+
+
 ## Architecture
 
 ```
